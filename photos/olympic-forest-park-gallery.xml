@@ -2,12 +2,6 @@
 <gallery frameColor="0xFFFFFF" frameWidth="15" imagePadding="20" displayTime="6" enableRightClickOpen="true">
 
 <image>
-   <url>forest_park_image/img_0263.jpg</url>
-   <caption></caption>
-   <width>640</width>
-   <height>480</height>
-</image>
-<image>
    <url>forest_park_image/img_0268.jpg</url>
    <caption></caption>
    <width>640</width>
@@ -15,6 +9,12 @@
 </image>
 <image>
    <url>forest_park_image/img_0271.jpg</url>
+   <caption></caption>
+   <width>640</width>
+   <height>480</height>
+</image>
+<image>
+   <url>forest_park_image/img_0263.jpg</url>
    <caption></caption>
    <width>640</width>
    <height>480</height>
