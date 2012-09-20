@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery frameColor="0xFFFFFF" frameWidth="15" imagePadding="20" displayTime="6" enableRightClickOpen="true">
+
+<image>
+   <url>other_images/img_0555.jpg</url>
+   <caption></caption>
+   <width>640</width>
+   <height>480</height>
+</image>
+<image>
+   <url>other_images/img_0373.jpg</url>
+   <caption></caption>
+   <width>640</width>
+   <height>480</height>
+</image>
+<image>
+   <url>other_images/img_0591.jpg</url>
+   <caption></caption>
+   <width>640</width>
+   <height>480</height>
+</image>
+<image>
+   <url>other_images/img_0593.jpg</url>
+   <caption></caption>
+   <width>640</width>
+   <height>480</height>
+</image>
+<image>
+   <url>other_images/img_0683.jpg</url>
+   <caption>farewell 西二旗</caption>
+   <width>640</width>
+   <height>480</height>
+</image>
+<image>
+   <url>other_images/img_0127.jpg</url>
+   <caption>一个人的23</caption>
+   <width>640</width>
+   <height>480</height>
+</image>
+<image>
+   <url>other_images/img_0167.jpg</url>
+   <caption>每一个加班的夜晚</caption>
+   <width>640</width>
+   <height>480</height>
+</image>
+<image>
+   <url>other_images/img_0496.jpg</url>
+   <caption></caption>
+   <width>320</width>
+   <height>480</height>
+</image>
+<image>
+   <url>other_images/img_0538.jpg</url>
+   <caption></caption>
+   <width>640</width>
+   <height>480</height>
+</image>
+<image>
+   <url>other_images/img_0561.jpg</url>
+   <caption>通宵后的清晨</caption>
+   <width>480</width>
+   <height>640</height>
+</image>
+</gallery>
